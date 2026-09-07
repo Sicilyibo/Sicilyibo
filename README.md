@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sicilyibo
-- 👀 I’m interested in Formula 1 Grand Prix
+- 👀 I’m interested in electronics projects
 - 🌱 I’m currently working in NextPCB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
