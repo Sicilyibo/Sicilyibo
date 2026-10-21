@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Sicilyibo
-- 👀 I’m interested in electronics projects
-- 🌱 I’m currently working in NextPCB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I have 2 English short hair cat named nini and huihui
-
-<!---
-Sicilyibo/Sicilyibo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Sicilyibo
+👀 Interested in electronics, DIY projects, and open-source hardware.
+🌱 Working at NextPCB, helping makers bring their electronics projects to life.
+💞️ Open to collaborating with hardware developers and open-source creators! 
+We offer PCB manufacturing sponsorships in exchange for social media posts(linkedin, github, instructables...) featuring their projects.
+📫 Reach me at nessa@nextpcb.com for collaboration opportunities!
+⚡ Fun fact: I have two British Shorthair cats named Nini and Huihui. 🐱🐱
