@@ -1,4 +1,4 @@
-👋 Hi, I’m @Sicilyibo
+👋 Hi, I’m Nessa. @Sicilyibo
 
 👀 Interested in electronics, DIY projects, and open-source hardware.
 
