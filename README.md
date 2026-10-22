@@ -1,7 +1,5 @@
 👋 Hi, I’m Nessa. @Sicilyibo
 
-👀 Interested in electronics, DIY projects, and open-source hardware.
-
 🌱 Working at NextPCB, helping makers bring their electronics projects to life.
 
 💞️ Open to collaborating with hardware developers and open-source creators! 
